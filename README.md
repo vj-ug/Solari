@@ -1,4 +1,4 @@
-# Update August
+Update August
 
 Finally pushed from Private to Public
 
