@@ -1,0 +1,13 @@
+{
+  "name": "solari",
+  "description": "Lock it remotely without worrying.",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "^4.12.3",
+    "ir-attx4": "^0.2.7",
+    "mongoose": "^4.0.1"
+  }
+}
